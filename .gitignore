@@ -1,0 +1,21 @@
+# bloop, metals and vscode
+.bloop
+.vscode
+.bsp
+.json
+.log
+.db
+.metals
+.nfs*
+project/metals.sbt
+# sbt
+target/
+project/target/
+project/project/
+.metals/metals.log
+.metals/metals.mv.db
+project/metals.sbt
+sbtproject/metals.sbt
+project/project/metals.sbt
+*.sbt
+log/*
